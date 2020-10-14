@@ -54,3 +54,6 @@ https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/Dungeon_Map_Cache.zip
 
 Dungeon Maps "Should" Open
 
+# GoArrow Dungon Maps Alternative
+
+https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/UtilityBeltInstaller-0.1.5.exe
