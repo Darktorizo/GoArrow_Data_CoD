@@ -1,6 +1,11 @@
 # GoArrow_Data_CoD
 Decal Plugin GoArrow Locations Database
 
+For whatever reason just putting the link below in the GoArrow Update the Locations Database / URL Box does not work and gives an error.
+Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
+
+Current number of locations in database should read: 5219 (as of 11.20.2023 anyways)
+
 ---
 
 Darktorizo's Location Database:
