@@ -62,4 +62,4 @@ Dungeon Maps "Should" Open
 
 # GoArrow Dungon Maps Alternative
 
-https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/UtilityBeltInstaller-0.1.5.exe
+https://utilitybelt.gitlab.io/
