@@ -1,6 +1,23 @@
 # GoArrow_Data_CoD
 Decal Plugin GoArrow Locations Database
 
+2024-02-11 Updates from lugielord
+  Go Arrow Dungeon Map updates:
+    Unzip BOTH 'Dungeon Map Cache Baseline 20180827' & 'Dungeon Map Cache Updates' into your current ..Plugins\GoArrowVVSEdition\Dungeon Map Cache folder.
+    Comment: Had to split into 2 files since it was now bigger than 25MB.  UGH! 
+
+ Go Arrow Atlas Location updates:
+    Copy data_cod_20240211.xml to your hard drive.  Open Asheron's call. Open Go Arrow Plug-in. Click Atlas, then Update Menu. Copy full path to data_cod_20240211.xml file in the URL field.  Press "Update Locations Database" TWICE.  Should show 5187 current locations.  (There are 227 'retired' locations in this file now that are missing or don't work in ACE Emulator version)
+    Comment: Created new file data_cod_20240211.xml since I changed the file format quite a bit from Darktorizo's posted data_cod.xml file. I'm using excel to generate xml and sorted file by location id now for easier editing.
+
+Other notes: You should not need GAlocations.xml, nor the previous data_cod.xml any longer.  
+    
+Thank you Darktorizo, Roogon and others for creating this locations file!
+More updates to come!
+    - lugielord
+    
+-- previous comments from Darktorizo
+
 For whatever reason just putting the link below in the GoArrow Update the Locations Database / URL Box does not work and gives an error.
 
 Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
