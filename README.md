@@ -2,19 +2,21 @@
 2024-02-11
   
 GoArrow Dungeon Map updates:
-  - Unzip BOTH 'Dungeon Map Cache Baseline 20180827' & 'Dungeon Map Cache Updates' into your current ..Plugins\GoArrowVVSEdition\Dungeon Map Cache folder.
-    Had to split into 2 files since it was now bigger than 25MB.  UGH! 
+ - Unzip BOTH 'Dungeon Map Cache Baseline 20180827' & 'Dungeon Map Cache Updates' into your current ..Plugins\GoArrowVVSEdition\Dungeon Map Cache folder.
+ - Split into 2 files. since it was now bigger than 25MB size limit.  UGH! 
 
 GoArrow Atlas Location updates:
  - Copy data_cod_20240211.xml to your hard drive.
  - Open Asheron's call. Open Go Arrow Plug-in. Click Atlas, then Update Menu. Copy full path to data_cod_20240211.xml file in the URL field.
  - Press "Update Locations Database" TWICE.  Should show 5187 current locations.  (There are 227 'retired' locations in this file now that are missing or don't work in ACE Emulator version)
+ - Created new file data_cod_20240211.xml since I changed the file format quite a bit from Darktorizo's posted data_cod.xml file.
 
-Created new file data_cod_20240211.xml since I changed the file format quite a bit from Darktorizo's posted data_cod.xml file. I'm using excel to generate xml and sorted file by location id now for easier editing.
-GoArrow creates ..Plugins\GoArrowVVSEdition\cod_locations.xml from the data in URL file you enter.
-If you delete ..Plugins\GoArrowVVSEdition\locations.xml, Go Arrow will re-create it (This syncs it with cod_locations.xml)
-You should no longer need GAlocations.xml,
-You should no longer need (previous) data_cod.xml
+Other notes:
+- I'm using excel to generate xml and sorted file by location id now for easier editing.
+- GoArrow creates ..Plugins\GoArrowVVSEdition\cod_locations.xml from the data in URL file you enter.
+- If you delete ..Plugins\GoArrowVVSEdition\locations.xml, Go Arrow will re-create it (This syncs it with cod_locations.xml)
+- You should no longer need GAlocations.xml,
+- You should no longer need (previous) data_cod.xml
     
 Thank you Darktorizo, Roogon and others for creating this locations file! More updates to come!
     - lugielord
