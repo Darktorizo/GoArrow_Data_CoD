@@ -7,13 +7,13 @@ How to update GoArrow Dungeon Maps:
  - Unzip 'Dungeon Map Cache Updates.rar' into your current ..Plugins\GoArrowVVSEdition\Dungeon Map Cache folder.
  - Overwrite all existing files since there have been updates to some images to reflect portal changes.
  - I needed to split off the updates from the baseline zip, since it was now bigger than 25MB size limit.  UGH!
- - Grand total is about 838 maps!
+ - Grand total is about 878 maps!
 
 How to update GoArrow Atlas Locations:
  - Copy data_cod.xml to your hard drive.
  - Open Asheron's call. Open Go Arrow Plug-in. Click Atlas, then Update Menu. Copy full path to data_cod.xml file in the URL field.
- - Press "Update Locations Database" TWICE.  As of 2024-02-24 this should show 5391 current locations.  
- (There are over 200 'retired' locations in this file covering retired, seasonal and placess yet to be added with the latest ACE Emulator database v0.9.278)
+ - Press "Update Locations Database" TWICE.  As of 2024-03-23 this should show 5435 current locations.  
+ (There are about 200 'retired' locations in this file covering retired, seasonal and places yet to be added with the latest ACE Emulator database v0.9.279)
  
 Other notes:
 - I'm using excel to generate xml and I've sorted file by location id now for easier editing.
