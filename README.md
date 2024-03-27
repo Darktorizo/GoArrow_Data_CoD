@@ -5,7 +5,13 @@ For whatever reason just putting the link below in the GoArrow Update the Locati
 
 Instead download the file using the link, save to somewhere like C:\data_cod.xml, the add that to the GoArrow Update the Locations Database / URL Box, Hit the Update Locations Database button, Let it finish, then hit the button again.
 
-Current number of locations in database should read: 5219 (as of 11.20.2023 anyways)
+Current number of locations in database should read: 5435 (as of 03.27.2024 anyways)
+
+
+lugielord's Location Database:
+
+https://raw.githubusercontent.com/lugielord/GoArrow_Data_CoD/master/data_cod.xml - Last File Update / Upload 03.27.2024
+(insync with ACE Emulator database v0.9.279)
 
 ---
 
@@ -16,6 +22,7 @@ https://raw.githubusercontent.com/Darktorizo/GoArrow_Data_CoD/master/data_cod.xm
 ---
 
 Roogon's Location Database:
+(Fully included in above database.)
 
 https://raw.githubusercontent.com/Darktorizo/GoArrow_Data_CoD/master/GAlocations.xml - Last File Update / Upload 04.15.2012
 
@@ -50,7 +57,8 @@ https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/GoArrow_2.5.0.0.VVS_W
 
 Also
 
-https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/Dungeon_Map_Cache.zip
+https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/Dungeon_Map_Cache.zip (2018 baseline)
+https://github.com/Darktorizo/GoArrow_Data_CoD/blob/master/Dungeon Map Cache Updates.rar (235 Added/updated maps)!!
 
 3. Install GoArrow <Version>
 

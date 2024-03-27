@@ -1,16 +1,11 @@
-This is an open call for anyone who would like to take over maintaining the database. The only requirements really are : Time and Accuracy.
-
-The database code is written in .xml but I have always just done the adding/editing in wordpad.
-
-
-Code:
+data_cod.xml schema explained
 
 <location>
-<id>9494</id> <-- Increment by one per each new item
+<id>9998</id> <-- Increment by one per each new item
 <latitude>22.200</latitude> <-- North = -22.000 (22.0n) South = 22.000 (22.0s)
 <longitude>6.200</longitude> <-- West = - 6.200 (6.2w) East = 6.200 (6.2e)
 <restrictions></restrictions> <-- Portal/Entry/Level restrictions
-<name>Taylarn bint Tulani</name> <-- Name of the Npc/Location ect.
+<name>Taylarn bint Tulani</name> <-- Name of the Npc/Location etc.
 <type>NPC</type> <-- Types: NPC, Landmark, Dungeon, Wilderness Portal, Portal Hub, Lifestone, Village, Outpost, Town
 <imgsrc></imgsrc> <-- Not Used
 <hyperlink></hyperlink> <-- Not Used
@@ -20,15 +15,10 @@ Code:
 <date_added>2011-5-25 12:00:00</date_added> <-- Date Added
 <last_update>0000-00-00 00:00:00</last_update> <-- Date Modified (If applicable)
 <monsters></monsters> <-- Not Used
-<dungeon_id></dungeon_id> <-- Used for Dungeons Only (Type /loc in dungeon for ID) See : Here
+<dungeon_id></dungeon_id> <-- Used for Dungeons Only (Type /loc in dungeon for ID). First 4 hex values.
 <retired>N</retired> <-- Location Retired Y/N (Y will hide it from visibility in GoArrow ect)
 <settlement></settlement> <-- Y or Blank
 <tod_req>0</tod_req> <-- Not Used
 </location>
 
-That is the short version of the requirements for updating.
-
-
-I will try to update as I can via my current links, but my hope is that someone else will update it and bring to the table their own skills and style of doing it.
-
-Thank you all for the support and time put into verifying and reporting errors to me, I hope that will continue for the next maintainer. 
+Thank you Darktorizo and Roogon for setting up this file!
